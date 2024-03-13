@@ -18,5 +18,9 @@
 	{
 		"code": "uk",
 		"title": "Ukrainian"
+	},
+	{
+		"code": "zh-CN",
+		"title": "简体中文"
 	}
 ]
